@@ -102,8 +102,7 @@ function array_match_check(arr1, arr2) {
 	<div class="cat_image" data-language="language1" data-ratio="ratio4" data-rank="rank6" data-fee=fee1>
 	    
     <h2><p>University polytechnica of bucharest</p></h2>
-    <h3><p>qs rank:500 anual tuition fees:30万</p>　
-        <p>acceptance rate:80% Instruction language:english</p>
+    <h3><p>qs rank:500 anual tuition fees:30万 acceptance rate:80% Instruction language:english</p>
 	</h3>
 
         <a href="https://apply.upb.ro/">
@@ -115,8 +114,7 @@ function array_match_check(arr1, arr2) {
 	<div class="cat_image" data-language="language1" data-ratio="ratio3" data-rank="rank3" data-fee=fee2>
         
 	<h2><p>Central European Universisty</p></h2>
-    <h3><p>qs rank sociology:60 anual tuition fees:100万</p>　
-        <p>acceptance rate:50% language:english</p></h3>
+    <h3><p>qs rank sociology:60 anual tuition fees:100万 acceptance rate:50% language:english</p></h3>
     
         <a href="https://www.ceu.edu/apply">
 		<img src="画像のURL" alt="画像の説明">
@@ -173,5 +171,6 @@ function array_match_check(arr1, arr2) {
 	display: none;
 }
 </style>
+
 
 
